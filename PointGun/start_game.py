@@ -162,7 +162,7 @@ class Game:
     def __init__(self):
         self.state = GameState.COUNTDOWN
         self.countdown_time = 4  # 4 seconds
-        self.game_duration = 1  # 60 seconds
+        self.game_duration = 60  # 60 seconds
         self.time_remaining = self.game_duration
         self.score = 0
         self.consecutive_hits = 0
