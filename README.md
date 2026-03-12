@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 Run the game:
 
-python start_game.py
+python menu.py
 
 ## Technologies Used
 - Python
